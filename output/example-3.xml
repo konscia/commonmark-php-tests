@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document xmlns="http://commonmark.org/xml/1.0">
+    <paragraph>
+        <text>Vou criar uma tabela comparativa em HTML que destaca as principais diferenças entre os dois candidatos de forma visualmente atraente e simplificada:</text>
+    </paragraph>
+    <link-datapedia destination="./exemplo-3-ceb7a274da.html" title="Clique para ver o conteúdo completo do arquivo">
+        <text>Arquivo html gerado pela IA</text>
+    </link-datapedia>
+    <paragraph>
+        <text>Esta tabela HTML apresenta de forma visual e simplificada as principais diferenças entre os dois candidatos, destacando:</text>
+    </paragraph>
+    <list type="ordered" start="1" tight="true" delimiter="period">
+        <item>
+            <paragraph>
+                <text>Seus principais redutos eleitorais</text>
+            </paragraph>
+        </item>
+        <item>
+            <paragraph>
+                <text>Desempenho na capital paulista</text>
+            </paragraph>
+        </item>
+        <item>
+            <paragraph>
+                <text>Municípios onde conquistaram a primeira posição</text>
+            </paragraph>
+        </item>
+        <item>
+            <paragraph>
+                <text>Capilaridade territorial</text>
+            </paragraph>
+        </item>
+        <item>
+            <paragraph>
+                <text>Percentuais máximos obtidos</text>
+            </paragraph>
+        </item>
+        <item>
+            <paragraph>
+                <text>Principais cidades em termos de votos absolutos</text>
+            </paragraph>
+        </item>
+        <item>
+            <paragraph>
+                <text>Desempenho em grandes centros urbanos</text>
+            </paragraph>
+        </item>
+        <item>
+            <paragraph>
+                <text>Padrão de distribuição geográfica dos votos</text>
+            </paragraph>
+        </item>
+        <item>
+            <paragraph>
+                <text>Perfil típico de votação</text>
+            </paragraph>
+        </item>
+    </list>
+    <paragraph>
+        <text>Outro arquivo de exemplo em outra linguagem:</text>
+    </paragraph>
+    <link-datapedia destination="./exemplo-3-6e29f7a5e8.py" title="Clique para ver o conteúdo completo do arquivo">
+        <text>Arquivo python gerado pela IA</text>
+    </link-datapedia>
+    <paragraph>
+        <text>O design utiliza cores distintas para cada candidato, facilitando a visualização das diferenças, e inclui elementos gráficos como barras e círculos para representar visualmente certos dados comparativos.</text>
+    </paragraph>
+</document>

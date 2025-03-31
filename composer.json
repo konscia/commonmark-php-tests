@@ -1,0 +1,13 @@
+{
+    "name": "kaleu/commonmark-php-tests",
+    "description": "Simple tests with CommonMark library",
+    "type": "project",
+    "require": {
+        "league/commonmark": "^2.6"
+    },
+    "autoload": {
+        "psr-4": {
+            "Kaleu\\CommonMarkTests\\": "src/"
+        }
+    }
+}

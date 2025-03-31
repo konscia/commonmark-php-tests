@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document xmlns="http://commonmark.org/xml/1.0">
+    <paragraph>
+        <text>Vou criar uma tabela comparativa em HTML que destaca as principais diferenças entre os dois candidatos de forma visualmente atraente e simplificada:</text>
+    </paragraph>
+    <code_block info="html">&lt;div style=&quot;font-family: Arial, sans-serif; max-width: 800px; margin: 0 auto; border-radius: 8px; overflow: hidden; box-shadow: 0 4px 8px rgba(0,0,0,0.1);&quot;&gt;
+    &lt;div style=&quot;background: linear-gradient(135deg, #1a5276 0%, #2980b9 100%); color: white; padding: 20px; text-align: center;&quot;&gt;
+        &lt;h2 style=&quot;margin: 0; font-weight: 600;&quot;&gt;Comparativo Eleitoral: Eleições 2022 para Deputado Federal em SP&lt;/h2&gt;
+    &lt;/div&gt;
+    
+    &lt;table style=&quot;width: 100%; border-collapse: collapse; background-color: white;&quot;&gt;
+        &lt;tr style=&quot;background-color: #f8f9fa;&quot;&gt;
+            &lt;th style=&quot;width: 30%; padding: 16px; text-align: left; border-bottom: 2px solid #ddd;&quot;&gt;Indicador&lt;/th&gt;
+            &lt;th style=&quot;width: 35%; padding: 16px; text-align: center; border-bottom: 2px solid #ddd; border-left: 1px solid #ddd;&quot;&gt;
+                &lt;div style=&quot;display: flex; justify-content: center; align-items: center;&quot;&gt;
+                    &lt;div style=&quot;background-color: #5499c7; width: 15px; height: 15px; border-radius: 50%; margin-right: 10px;&quot;&gt;&lt;/div&gt;
+                    &lt;span&gt;João Cury&lt;/span&gt;
+                &lt;/div&gt;
+            &lt;/th&gt;
+            &lt;th style=&quot;width: 35%; padding: 16px; text-align: center; border-bottom: 2px solid #ddd; border-left: 1px solid #ddd;&quot;&gt;
+                &lt;div style=&quot;display: flex; justify-content: center; align-items: center;&quot;&gt;
+                    &lt;div style=&quot;background-color: #f1c40f; width: 15px; height: 15px; border-radius: 50%; margin-right: 10px;&quot;&gt;&lt;/div&gt;
+                    &lt;span&gt;Cleusa Ramos Zerbini&lt;/span&gt;
+                &lt;/div&gt;
+            &lt;/th&gt;
+        &lt;/tr&gt;
+        
+        &lt;tr&gt;
+            &lt;td style=&quot;padding: 12px; border-bottom: 1px solid #ddd; font-weight: bold;&quot;&gt;Principal reduto eleitoral&lt;/td&gt;
+            &lt;td style=&quot;padding: 12px; border-bottom: 1px solid #ddd; border-left: 1px solid #ddd; text-align: center;&quot;&gt;Botucatu&lt;br&gt;&lt;span style=&quot;font-size: 0.9em; color: #666;&quot;&gt;(25.085 votos - 34,19%)&lt;/span&gt;&lt;/td&gt;
+            &lt;td style=&quot;padding: 12px; border-bottom: 1px solid #ddd; border-left: 1px solid #ddd; text-align: center;&quot;&gt;São Paulo&lt;br&gt;&lt;span style=&quot;font-size: 0.9em; color: #666;&quot;&gt;(21.764 votos - 0,36%)&lt;/span&gt;&lt;/td&gt;
+        &lt;/tr&gt;
+        
+        &lt;tr style=&quot;background-color: #f8f9fa;&quot;&gt;
+            &lt;td style=&quot;padding: 12px; border-bottom: 1px solid #ddd; font-weight: bold;&quot;&gt;Votos na capital&lt;/td&gt;
+            &lt;td style=&quot;padding: 12px; border-bottom: 1px solid #ddd; border-left: 1px solid #ddd; text-align: center;&quot;&gt;17.998&lt;br&gt;&lt;span style=&quot;font-size: 0.9em; color: #666;&quot;&gt;(69ª posição)&lt;/span&gt;&lt;/td&gt;
+            &lt;td style=&quot;padding: 12px; border-bottom: 1px solid #ddd; border-left: 1px solid #ddd; text-align: center;&quot;&gt;21.764&lt;br&gt;&lt;span style=&quot;font-size: 0.9em; color: #666;&quot;&gt;(60ª posição)&lt;/span&gt;&lt;/td&gt;
+        &lt;/tr&gt;
+        
+        &lt;tr&gt;
+            &lt;td style=&quot;padding: 12px; border-bottom: 1px solid #ddd; font-weight: bold;&quot;&gt;Municípios onde ficou em 1º lugar&lt;/td&gt;
+            &lt;td style=&quot;padding: 12px; border-bottom: 1px solid #ddd; border-left: 1px solid #ddd; text-align: center;&quot;&gt;&lt;span style=&quot;font-size: 1.5em; color: #5499c7;&quot;&gt;9&lt;/span&gt;&lt;/td&gt;
+            &lt;td style=&quot;padding: 12px; border-bottom: 1px solid #ddd; border-left: 1px solid #ddd; text-align: center;&quot;&gt;&lt;span style=&quot;font-size: 1.5em; color: #f1c40f;&quot;&gt;1&lt;/span&gt;&lt;/td&gt;
+        &lt;/tr&gt;
+        
+        &lt;tr style=&quot;background-color: #f8f9fa;&quot;&gt;
+            &lt;td style=&quot;padding: 12px; border-bottom: 1px solid #ddd; font-weight: bold;&quot;&gt;Capilaridade (municípios com votos)&lt;/td&gt;
+            &lt;td style=&quot;padding: 12px; border-bottom: 1px solid #ddd; border-left: 1px solid #ddd; text-align: center;&quot;&gt;&lt;span style=&quot;font-size: 1.5em; color: #5499c7;&quot;&gt;513&lt;/span&gt;&lt;br&gt;&lt;span style=&quot;font-size: 0.9em; color: #666;&quot;&gt;(79,5% do estado)&lt;/span&gt;&lt;/td&gt;
+            &lt;td style=&quot;padding: 12px; border-bottom: 1px solid #ddd; border-left: 1px solid #ddd; text-align: center;&quot;&gt;&lt;span style=&quot;font-size: 1.5em; color: #f1c40f;&quot;&gt;270&lt;/span&gt;&lt;br&gt;&lt;span style=&quot;font-size: 0.9em; color: #666;&quot;&gt;(41,9% do estado)&lt;/span&gt;&lt;/td&gt;
+        &lt;/tr&gt;
+        
+        &lt;tr&gt;
+            &lt;td style=&quot;padding: 12px; border-bottom: 1px solid #ddd; font-weight: bold;&quot;&gt;Maior percentual em um município&lt;/td&gt;
+            &lt;td style=&quot;padding: 12px; border-bottom: 1px solid #ddd; border-left: 1px solid #ddd; text-align: center;&quot;&gt;&lt;span style=&quot;font-size: 1.3em; color: #5499c7;&quot;&gt;34,19%&lt;/span&gt;&lt;br&gt;&lt;span style=&quot;font-size: 0.9em; color: #666;&quot;&gt;(Botucatu)&lt;/span&gt;&lt;/td&gt;
+            &lt;td style=&quot;padding: 12px; border-bottom: 1px solid #ddd; border-left: 1px solid #ddd; text-align: center;&quot;&gt;&lt;span style=&quot;font-size: 1.3em; color: #f1c40f;&quot;&gt;13,01%&lt;/span&gt;&lt;br&gt;&lt;span style=&quot;font-size: 0.9em; color: #666;&quot;&gt;(Santa Lúcia)&lt;/span&gt;&lt;/td&gt;
+        &lt;/tr&gt;
+        
+        &lt;tr style=&quot;background-color: #f8f9fa;&quot;&gt;
+            &lt;td style=&quot;padding: 12px; border-bottom: 1px solid #ddd; font-weight: bold;&quot;&gt;Top 3 cidades por votos&lt;/td&gt;
+            &lt;td style=&quot;padding: 12px; border-bottom: 1px solid #ddd; border-left: 1px solid #ddd; text-align: center;&quot;&gt;
+                1. Botucatu (25.085)&lt;br&gt;
+                2. São Paulo (17.998)&lt;br&gt;
+                3. Itatinga (2.272)
+            &lt;/td&gt;
+            &lt;td style=&quot;padding: 12px; border-bottom: 1px solid #ddd; border-left: 1px solid #ddd; text-align: center;&quot;&gt;
+                1. São Paulo (21.764)&lt;br&gt;
+                2. Catanduva (1.525)&lt;br&gt;
+                3. Américo Brasiliense (1.490)
+            &lt;/td&gt;
+        &lt;/tr&gt;
+        
+        &lt;tr&gt;
+            &lt;td style=&quot;padding: 12px; border-bottom: 1px solid #ddd; font-weight: bold;&quot;&gt;Desempenho em grandes centros&lt;/td&gt;
+            &lt;td style=&quot;padding: 12px; border-bottom: 1px solid #ddd; border-left: 1px solid #ddd; text-align: center;&quot;&gt;
+                &lt;span style=&quot;display: inline-block; width: 10px; height: 10px; background-color: #e74c3c; border-radius: 50%;&quot;&gt;&lt;/span&gt; Baixo
+            &lt;/td&gt;
+            &lt;td style=&quot;padding: 12px; border-bottom: 1px solid #ddd; border-left: 1px solid #ddd; text-align: center;&quot;&gt;
+                &lt;span style=&quot;display: inline-block; width: 10px; height: 10px; background-color: #f39c12; border-radius: 50%;&quot;&gt;&lt;/span&gt; Moderado
+            &lt;/td&gt;
+        &lt;/tr&gt;
+        
+        &lt;tr style=&quot;background-color: #f8f9fa;&quot;&gt;
+            &lt;td style=&quot;padding: 12px; border-bottom: 1px solid #ddd; font-weight: bold;&quot;&gt;Padrão de distribuição de votos&lt;/td&gt;
+            &lt;td style=&quot;padding: 12px; border-bottom: 1px solid #ddd; border-left: 1px solid #ddd; text-align: center;&quot;&gt;
+                &lt;div style=&quot;width: 100%; height: 20px; background: linear-gradient(90deg, #5499c7 80%, #d6eaf8 20%); border-radius: 10px;&quot;&gt;&lt;/div&gt;
+                &lt;span style=&quot;font-size: 0.9em; color: #666;&quot;&gt;Concentrado regionalmente&lt;/span&gt;
+            &lt;/td&gt;
+            &lt;td style=&quot;padding: 12px; border-bottom: 1px solid #ddd; border-left: 1px solid #ddd; text-align: center;&quot;&gt;
+                &lt;div style=&quot;width: 100%; height: 20px; background: linear-gradient(90deg, #f1c40f 40%, #fcf3cf 20%, #f1c40f 20%, #fcf3cf 20%); border-radius: 10px;&quot;&gt;&lt;/div&gt;
+                &lt;span style=&quot;font-size: 0.9em; color: #666;&quot;&gt;Disperso com focos específicos&lt;/span&gt;
+            &lt;/td&gt;
+        &lt;/tr&gt;
+        
+        &lt;tr&gt;
+            &lt;td style=&quot;padding: 12px; border-bottom: 1px solid #ddd; font-weight: bold;&quot;&gt;Perfil de votação&lt;/td&gt;
+            &lt;td style=&quot;padding: 12px; border-bottom: 1px solid #ddd; border-left: 1px solid #ddd; text-align: center;&quot;&gt;
+                &lt;span style=&quot;display: block; margin-bottom: 5px;&quot;&gt;Base municipal forte&lt;/span&gt;
+                &lt;span style=&quot;font-size: 0.85em; color: #666;&quot;&gt;Típico de ex-prefeitos ou líderes regionais&lt;/span&gt;
+            &lt;/td&gt;
+            &lt;td style=&quot;padding: 12px; border-bottom: 1px solid #ddd; border-left: 1px solid #ddd; text-align: center;&quot;&gt;
+                &lt;span style=&quot;display: block; margin-bottom: 5px;&quot;&gt;Base difusa por segmentos&lt;/span&gt;
+                &lt;span style=&quot;font-size: 0.85em; color: #666;&quot;&gt;Típico de representante de causas ou setores&lt;/span&gt;
+            &lt;/td&gt;
+        &lt;/tr&gt;
+    &lt;/table&gt;
+    
+    &lt;div style=&quot;background-color: #f8f9fa; padding: 15px; text-align: center; font-size: 0.8em; color: #666; border-top: 1px solid #ddd;&quot;&gt;
+        Dados eleitorais oficiais - Eleições 2022 para Deputado Federal em São Paulo
+    &lt;/div&gt;
+&lt;/div&gt;
+</code_block>
+    <paragraph>
+        <text>Esta tabela HTML apresenta de forma visual e simplificada as principais diferenças entre os dois candidatos, destacando:</text>
+    </paragraph>
+    <list type="ordered" start="1" tight="true" delimiter="period">
+        <item>
+            <paragraph>
+                <text>Seus principais redutos eleitorais</text>
+            </paragraph>
+        </item>
+        <item>
+            <paragraph>
+                <text>Desempenho na capital paulista</text>
+            </paragraph>
+        </item>
+        <item>
+            <paragraph>
+                <text>Municípios onde conquistaram a primeira posição</text>
+            </paragraph>
+        </item>
+        <item>
+            <paragraph>
+                <text>Capilaridade territorial</text>
+            </paragraph>
+        </item>
+        <item>
+            <paragraph>
+                <text>Percentuais máximos obtidos</text>
+            </paragraph>
+        </item>
+        <item>
+            <paragraph>
+                <text>Principais cidades em termos de votos absolutos</text>
+            </paragraph>
+        </item>
+        <item>
+            <paragraph>
+                <text>Desempenho em grandes centros urbanos</text>
+            </paragraph>
+        </item>
+        <item>
+            <paragraph>
+                <text>Padrão de distribuição geográfica dos votos</text>
+            </paragraph>
+        </item>
+        <item>
+            <paragraph>
+                <text>Perfil típico de votação</text>
+            </paragraph>
+        </item>
+    </list>
+    <paragraph>
+        <text>O design utiliza cores distintas para cada candidato, facilitando a visualização das diferenças, e inclui elementos gráficos como barras e círculos para representar visualmente certos dados comparativos.</text>
+    </paragraph>
+</document>
